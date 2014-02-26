@@ -1,0 +1,11 @@
+#show-contact {
+  display:none;
+}
+
+.col-xs-3 {
+  padding-left: 0;
+}
+
+.col-xs-5 {
+  padding-right: 0;
+}
